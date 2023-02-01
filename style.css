@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    font-size: 16px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #resultMessage {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
